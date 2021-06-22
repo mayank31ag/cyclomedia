@@ -1,0 +1,10 @@
+.ol-mouse-position {
+    pointer-events: auto;
+    top: 80%;
+    position: fixed;
+    background: yellow;
+  }
+  .ol-attribution
+  {
+      display: none;
+  }
